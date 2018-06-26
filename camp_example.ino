@@ -1,7 +1,7 @@
-int led1 = 1;
-int led2 = 2;
-int led3 = 3;
-int led4 = 4;
+int led1 = 2;
+int led2 = 3;
+int led3 = 4;
+int led4 = 5;
 int js_x = A0;
 int js_y = A1;
 
